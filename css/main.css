@@ -179,7 +179,7 @@
     .abt_heading{padding:30px !important;font-size: 2em !important;}
 }
 .drop_bg{
-  background-color: rgba(255, 255, 255, 0.5) !important;
+  background-color: rgba(255, 255, 255, 0.8) !important;
 }
 .dropdown-item{
   font-family: 'Merriweather', serif;
@@ -189,6 +189,15 @@
 .dropdown-item:hover{
   color: orange !important;
   background-color: rgba(255, 255, 255, 0.1);
+}
+.self-category {
+  margin-left: -12px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.dropdown-divider{
+  margin: 3.5px;
+  border-color: rgba(42, 56, 74, 0.3);
 }
 .f_address{
   color: white;
